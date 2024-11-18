@@ -21,22 +21,6 @@ Features ✨
 	5.	Profile Customization:
 		•	Edit personal details such as name, faculty, age, and more on the Profile Screen.
 
-File Structure 📁
-
-BrainBuddies/
-├── .vscode/             # VSCode configuration files
-├── app/                 # Core application logic and components
-├── assets/              # Static assets (e.g., images, icons)
-├── App.tsx              # Main entry point of the app
-├── FirebaseConfig.ts    # Firebase configuration and setup
-├── app.json             # Application configuration file
-├── babel.config.js      # Babel configuration
-├── eas.json             # Expo Application Services configuration
-├── metro.config.js      # Metro bundler configuration
-├── package.json         # Dependencies and project metadata
-├── package-lock.json    # Lockfile for dependencies
-├── tsconfig.json        # TypeScript configuration
-
 Prerequisites 🛠️
 
 	•	Node.js (v16 or higher recommended)
