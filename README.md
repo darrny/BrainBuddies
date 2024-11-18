@@ -5,21 +5,21 @@ BrainBuddies is a study buddy matching application inspired by dating apps like 
 Features ✨
 
 	1.	User Registration & Profiles:
-	•	Create an account using an email address and password.
-	•	Customize your profile with:
-	•	First Name and Last Name.
-	•	Year of Study and Faculty.
-	•	Profile Picture.
+		•	Create an account using an email address and password.
+		•	Customize your profile with:
+		•	First Name and Last Name.
+		•	Year of Study and Faculty.
+		•	Profile Picture.
 	2.	Matching System:
-	•	Swipe through user cards on the Home Screen.
-	•	“Like” or “Unlike” other users.
-	•	Mutual “Likes” connect users, allowing them to see each other in the Chats Screen.
+		•	Swipe through user cards on the Home Screen.
+		•	“Like” or “Unlike” other users.
+		•	Mutual “Likes” connect users, allowing them to see each other in the Chats Screen.
 	3.	Chat Functionality:
-	•	Converse with matched study buddies through the in-app chat feature.
+		•	Converse with matched study buddies through the in-app chat feature.
 	4.	Locations Screen:
-	•	Discover potential study spots for in-person collaboration.
+		•	Discover potential study spots for in-person collaboration.
 	5.	Profile Customization:
-	•	Edit personal details such as name, faculty, age, and more on the Profile Screen.
+		•	Edit personal details such as name, faculty, age, and more on the Profile Screen.
 
 File Structure 📁
 
