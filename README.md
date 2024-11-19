@@ -67,4 +67,12 @@ Future Improvements 🚀
 	•	Enhance matching algorithms to include preferences like subjects or study habits.
 	•	Implement group study buddy matching.
 	•	Add live notifications for chat messages and new matches.
-	•	Provide more details on study spot locations (e.g., ratings, availability).
+	•	<img width="406" alt="Screenshot 2024-11-19 at 8 28 49 PM" src="https://github.com/user-attachments/assets/25a271f7-bce7-4155-94fe-0d1d18859aa4">
+
+Screenshots 📸
+
+<img width="406" alt="Screenshot 2024-11-19 at 8 28 49 PM" src="https://github.com/user-attachments/assets/870f5709-557c-4e24-8604-082762de50da">
+<img width="405" alt="Screenshot 2024-11-19 at 8 29 49 PM" src="https://github.com/user-attachments/assets/de399dd5-936f-499c-93ef-61eecffa3430">
+<img width="411" alt="Screenshot 2024-11-19 at 8 31 22 PM" src="https://github.com/user-attachments/assets/03d3f1e9-8649-43be-99a2-e2f5bf21d9d9">
+<img width="410" alt="Screenshot 2024-11-19 at 8 32 07 PM" src="https://github.com/user-attachments/assets/bf5764ce-4b9b-479d-bb1f-a12717c18367">
+<img width="411" alt="Screenshot 2024-11-19 at 8 32 35 PM" src="https://github.com/user-attachments/assets/6a2b7b20-2b08-4427-a773-f185aca61e1c">
